@@ -17,3 +17,11 @@
 3. `Letter.js` *should not* `require` any other files.
 
 4. `Word.js` *should only* require `Letter.js`
+
+* **Screenshot Images**
+
+![wordguess1](https://user-images.githubusercontent.com/33642075/39459511-0cc8da04-4cca-11e8-81f2-5fb5d9b0c64a.PNG)
+
+![wordguess2](https://user-images.githubusercontent.com/33642075/39459514-1198f83e-4cca-11e8-8bb9-687217921989.PNG)
+
+![wordguess3](https://user-images.githubusercontent.com/33642075/39459516-1459fb2c-4cca-11e8-9dd1-16c55043547f.PNG)
