@@ -1,5 +1,7 @@
 # Constructor-Word-Guess
 
+* **Game Information**: Test your knowledge of the 54 African Countries. Good luck and enjoy the game!
+
 
 1. The game requires `inquirer` or `prompt` npm packages.
 
